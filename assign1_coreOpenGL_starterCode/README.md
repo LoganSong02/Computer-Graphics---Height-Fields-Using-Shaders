@@ -1,5 +1,3 @@
-Yuhang(Logan) Song - CSCI420 Assignment 1 README
-
 1. Where the screenshots are stored
 The screenshots generated will be stored in "Screenshots" in HW1 folder. 
 
