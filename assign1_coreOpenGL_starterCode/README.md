@@ -14,8 +14,8 @@ The screenshots generated will be stored in "Screenshots" in HW1 folder.
 - 2    ... Lines(Key 2, first mode)
 - 3    ... Triangles(Key 3, first mode)
 - 4    ... Smoothened Triangles(key 4, second mode)
-- +/=  ... multiply the current "scale" by 2x
-- -    ... divide the current "scale" by 2x
-- 9    ... multiply the current "exponent" by 2x
-- 0    ... divide the current "exponent" by 2x
+- "+/="  ... multiply the current "scale" by 2x
+- "-"    ... divide the current "scale" by 2x
+- "9"    ... multiply the current "exponent" by 2x
+- "0"    ... divide the current "exponent" by 2x
 
