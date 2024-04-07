@@ -1,5 +1,5 @@
-1. Where the screenshots are stored
-The screenshots generated will be stored in "Screenshots" in HW1 folder. 
+1. Where the screenshots are stored?
+- The screenshots generated will be stored in "Screenshots" in HW1 folder. 
 
 2. How to compile and run code?
 - Unzip the file
